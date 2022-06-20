@@ -109,6 +109,7 @@ main{
 }
 p {
   display: flex;
+  margin: 85vw;
   justify-content: center;
   font-family: "Varela Round", sans-serif;
   font-size: 15px;
