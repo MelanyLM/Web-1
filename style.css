@@ -148,3 +148,16 @@ ul a{
 color: #a587a4;
 text-decoration: none;
 }
+
+@media (max-width: 600px){
+    .logo span {
+    transform: scale(1);
+}
+.boton {
+  margin-left: 8px;
+  margin-right: 8px;
+  padding: 10px;
+  width: max-content;
+}
+
+}
