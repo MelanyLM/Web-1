@@ -153,6 +153,11 @@ text-decoration: none;
     .logo span {
     transform: scale(1);
 }
+.botones {
+  display: flex;
+  align-items: center;
+  width: 70%;
+}
 .boton {
   margin-left: 8px;
   margin-right: 8px;
