@@ -150,28 +150,30 @@ text-decoration: none;
 }
 
 @media (max-width: 600px){
-    .logo span {
+  .logo{
+    left: 43%;
+  }  
+  .logo span {
     transform: scale(1);
 }
 .botones {
-  display: flex;
-  align-items: center;
-  width: 70%;
+  display: inline-block;
+    width: 70%;
 }
 .boton {
-  margin-left: 8px;
-  margin-right: 8px;
+  margin-left: 10px;
+  margin-right: 10px;
   padding: 10px;
   width: 70%;
 }
 .boton2 {
-  margin-left: 8px;
-  margin-right: 8px;
+  margin-left: 10px;
+  margin-right: 10px;
   padding: 10px;
   width: 70%;
 }
 #encabezado {
-  height: 120vw;
+  height: 55vw;
   display: flex;
   justify-content: space-between;
   padding-left: 6vw;
