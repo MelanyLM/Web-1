@@ -164,5 +164,11 @@ text-decoration: none;
   padding: 10px;
   width: 70%;
 }
+.boton2 {
+  margin-left: 8px;
+  margin-right: 8px;
+  padding: 10px;
+  width: 70%;
+}
 
 }
